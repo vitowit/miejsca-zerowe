@@ -1,0 +1,7 @@
+C:\Users\vitow\OneDrive\Pulpit\miejscaZerowe\miejscaZerowe\bin\Debug\miejscaZerowe.exe.config
+C:\Users\vitow\OneDrive\Pulpit\miejscaZerowe\miejscaZerowe\bin\Debug\miejscaZerowe.exe
+C:\Users\vitow\OneDrive\Pulpit\miejscaZerowe\miejscaZerowe\bin\Debug\miejscaZerowe.pdb
+C:\Users\vitow\OneDrive\Pulpit\miejscaZerowe\miejscaZerowe\obj\Debug\miejscaZerowe.csproj.AssemblyReference.cache
+C:\Users\vitow\OneDrive\Pulpit\miejscaZerowe\miejscaZerowe\obj\Debug\miejscaZerowe.csproj.CoreCompileInputs.cache
+C:\Users\vitow\OneDrive\Pulpit\miejscaZerowe\miejscaZerowe\obj\Debug\miejscaZerowe.exe
+C:\Users\vitow\OneDrive\Pulpit\miejscaZerowe\miejscaZerowe\obj\Debug\miejscaZerowe.pdb
